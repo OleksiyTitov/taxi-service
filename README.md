@@ -1,5 +1,5 @@
-###**Taxi-Service**
-```
+**Taxi-Service**
+
 ### Project description:
 ```
 A simple web application that supports authentication, registration and other CRUD operations. 
