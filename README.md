@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 **Taxi-Service**
-
-=======
-#Taxi-Service
->>>>>>> 6b900ab (First commit)
 ### Project description:
 ```
 A simple web application that supports authentication, registration and other CRUD operations. 
