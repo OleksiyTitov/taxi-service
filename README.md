@@ -37,7 +37,7 @@ This application was made for educational and demonstration purposes.
 - JSTL
 - HTML/CSS
 - Checkstyle plugin
-## Steps to reproduce:
+## How to run a project:
 - Download and install MySQL;
 - Download and install Apache TomCat(**IMPORTANT**! You must use version: 9.0.x);
 - Clone this repository;
